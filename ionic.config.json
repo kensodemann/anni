@@ -1,0 +1,7 @@
+{
+  "name": "anni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
